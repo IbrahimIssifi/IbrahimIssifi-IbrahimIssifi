@@ -23,5 +23,5 @@ Live design: [Figma Site](https://bony-net-25673934.figma.site/)
 ---
 
 ## 📫 Contact
-- LinkedIn: [Ibrahim Issifi]([https://www.linkedin.com/in/ibrahim-issifi](https://www.linkedin.com/in/ibrahimissifi/)) 
+- LinkedIn: [Ibrahim Issifi](https://www.linkedin.com/in/ibrahimissifi/)
 - Email: `issifiibrahim@outlook.fr`
